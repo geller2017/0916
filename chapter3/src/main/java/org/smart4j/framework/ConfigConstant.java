@@ -5,7 +5,7 @@ package org.smart4j.framework;
  *
  */
 public interface ConfigConstant {
-	
+	//test-git
 	String CONFIG_FILE = "smart.properties";
 	String JDBC_DRIVER = "smart.framework.jdbc.driver";
 	String JDBC_URL = "smart.framework.jdbc.url";
