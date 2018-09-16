@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;chapter3&apos;&#x0D;&#x0A;- Original project: &apos;chapter3&apos;&#x0D;&#x0A;- Original element: &apos;chapter3/src/main/java/org.smart4j.framework.entoty&apos;" description="Delete element" element1="/src\/main\/java&lt;org.smart4j.framework.entoty" elements="1" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1526178326211" subPackages="false" version="1.0"/>
+</session>
